@@ -1,0 +1,16 @@
+devops-siva-course
+in this repo entire devops-siva course is here
+in this repo entire devops siva course available
+what are the devops tools here 
+
+Linux
+shell-script
+ansible
+terraform
+Jenkins
+docker
+Kubernetes
+python
+promothus&grafana
+
+interview questions & practical labs & resume points here
