@@ -1,2 +1,25 @@
-in linux we have so many commands are there but we have some concepts need to learn 
-for devops
+1. File and Directory Management:--
+
+* list files in directory (ls):--
+ls -l : # list with details like size, permission, owner etc.
+ls -a : # list all files with hidden files.
+
+* change directory (cd):---
+cd /path/to/directory # navigate to specific directory.
+
+* copy file (or) directory:--
+cp source_file destination # copy file to another location
+cp source_directory destination # copy directory to another location
+
+* mv move(or)rename file and directories
+mv source_file destination # move file to a different location.
+mv old_name new_name       # move rename file or folder
+
+* rm remove files or directories
+rm file_name # remove file
+rm -r directory # remove directory and its content.
+
+2. Permissions and Ownership:---
+
+* chmod: change permissions for file (or) directory
+
