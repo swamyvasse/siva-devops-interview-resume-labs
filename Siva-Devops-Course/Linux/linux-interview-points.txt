@@ -1,0 +1,16 @@
+what is server?
+. below 4 characteristics have any electronic device is called server
+. os,ram,cpu/processor,hard disk
+. server is only used for hosting the application.
+
+operating system --> architecture
+-------------------------------------
+application ---> os ----> hardware
+
+why linux is used?
+. less cost
+. more performance
+. more stability
+. free os
+. more security
+. in linux server everything in text
