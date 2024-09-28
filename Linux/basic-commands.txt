@@ -1,0 +1,2 @@
+in linux we have so many commands are there but we have some concepts need to learn 
+for devops
