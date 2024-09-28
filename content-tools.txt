@@ -4,13 +4,15 @@ in this repo entire devops siva course available
 what are the devops tools here 
 
 Linux
-shell-script
-ansible
-terraform
+Aws
+Git
+Shell-script
+Ansible
+Terraform
 Jenkins
-docker
+Docker
 Kubernetes
-python
-promothus&grafana
+Python
+Promothus&Grafana
 
 interview questions & practical labs & resume points here
