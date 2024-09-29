@@ -1,0 +1,5 @@
+what concepts learn in linux for devops:
+1.files and folder permissions:--
+2.
+3.
+
