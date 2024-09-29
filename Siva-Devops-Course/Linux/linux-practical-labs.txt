@@ -1,3 +1,29 @@
 In this linux folder we have interview questions and resume points
 linux course duration:--- 7.5 hrs
 
+linux basic commands:---
+------------------------------
+pwd: present working directory
+# --> root user
+$ --> normal user
+uname --> what is kernel name
+uname -a ---> it will give all information about kernel
+unmae -s ----> it will give kernel name
+uname -r ----> it will give version name
+man uname ---> manual of all commands
+ls --> list files and directories
+ls -l ---> it will shows in length format
+ls -lt ---> it will shows files based on time & date
+ls -r ---> it will shows reverse order
+ls -ltr ---> it will shows reverse order 
+ls -la  ---> it will shows hidden folders also
+
+files and folder permissions:---
+---------------------------------
+create file  ---> touch (file name)
+create folder ---> mkdir (folder name)
+how to add text in file ---> cat > (file name)
+how to add override text in file ---> cat >> (file name)
+how to see text content in file ---> cat (file name)
+
+
