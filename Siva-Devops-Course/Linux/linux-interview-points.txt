@@ -14,3 +14,21 @@ why linux is used?
 . free os
 . more security
 . in linux server everything in text
+
+how to generate public & private keys:---
+--------------------------------------------
+ssh-keygen -f <file-name>
+ssh-keygen -f devops
+ssh -i <private-key-path> username@publicIP
+ssh -i devops.pem ex2-user@53.45.98(public-ip)
+
+secure shell protocol --- ssh port no 22
+
+port numbers:--
+------
+HTTP 80
+MYSQL 3306
+DNS 53
+SMTP 25
+tomcat 8080
+
