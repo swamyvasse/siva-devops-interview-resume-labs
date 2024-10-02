@@ -21,5 +21,4 @@
   - name: default username
     ansible.builtin.command: rabbitmqctl add_user roboshop roboshop123
   - name: password as guest
-    ansible.builtin.command: rabbitmqctl set_permissions -p / roboshop ".*" ".*" ".*"
-    
+    ansible.builtin.command: rabbitmqctl set_permissions -p / roboshop ".*" ".*" ".*"    

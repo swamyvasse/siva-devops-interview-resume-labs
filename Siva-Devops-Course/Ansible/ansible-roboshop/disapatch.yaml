@@ -55,5 +55,4 @@
     ansible.builtin.service:
       name: dispatch
       state: started
-      enabled: yes
-      
+      enabled: yes      

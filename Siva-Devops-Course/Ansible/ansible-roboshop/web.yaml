@@ -36,4 +36,3 @@
     ansible.builitn.service:
       name: nginx
       state: restarted
-      
