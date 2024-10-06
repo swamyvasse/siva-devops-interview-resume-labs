@@ -26,5 +26,5 @@ how to add text in file ---> cat > (file name)
 how to add override text in file ---> cat >> (file name)
 how to see text content in file ---> cat (file name)
 how to copy file from one place to another ----> cp src_file dest_file
-how to cut file from one place to another -----> mv src_file dest_file[]
+how to cut file from one place to another -----> mv src_file dest_file
 
