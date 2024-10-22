@@ -1,5 +1,7 @@
-●Experienced in managing user accounts, permissions, and file systems, 
- ensuring security and access control in Linux environments.
+->Experienced in managing user accounts, permissions, and file systems, ensuring 
+  security and access control in Linux environments.
+->
+
 
 
 
